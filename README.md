@@ -11,7 +11,10 @@ Eae! 🤘
 
 ![Hazesz GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazesz&show_icons=true&theme=dracula)
 
+*Linguagens Favoritas
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![working-from](https://github.com/user-attachments/assets/9682e31b-2959-44bf-b36b-204700a26478)
